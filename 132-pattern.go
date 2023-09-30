@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/132-pattern/submissions/
+// my super ugly solution, should have instead iterated from the different direction and simply search for 1 after setting the 3-2 
 
 type IncreaseInterval struct {
 	End      int
